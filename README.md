@@ -1,12 +1,12 @@
 <br>FACULTAD DE INGENIERÍA CIVIL
-<br> ING. TOPÓGRAFO GEOMÁTICO
-<br> 3°B
-<br> **Creación de Código que proyecte las trayectorias de los huracanes con capas shp **
-<br> AUTORES DEL PROYECTO 
-<br> Brizuela Hernandez Rosa Maria 
-<br> Rosales Medina Héctor Daniel 
+<br>ING. TOPÓGRAFO GEOMÁTICO
+<br>3°B
+<br>**Creación de Código que proyecte las trayectorias de los huracanes con capas shp **
+<br>AUTORES DEL PROYECTO 
+<br>Brizuela Hernandez Rosa Maria 
+<br>Rosales Medina Héctor Daniel 
 <br>Asesor: Sebastián González Zepeda 
-<br> COQUIMATLÁN, COL. 20 DE OCTUBRE 2023
+<br>COQUIMATLÁN, COL. 20 DE OCTUBRE 2023
 <br>
 <br>
 2.	INTRODUCCIÓN
