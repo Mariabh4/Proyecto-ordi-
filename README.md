@@ -1,21 +1,14 @@
-FACULTAD DE INGENIERÍA CIVIL
-
-ING. TOPÓGRAFO GEOMÁTICO
-
-3°B
-
-“Creación de Código que proyecte las trayectorias de los huracanes con capas shp “
-
-AUTORES DEL PROYECTO 
-
-Brizuela Hernandez Rosa Maria 
-Rosales Medina Héctor Daniel 
-
-PROFESOR:
-Sebastián González Zepeda 
-
-COQUIMATLÁN, COL. 20 DE OCTUBRE 2023
-
+<br>FACULTAD DE INGENIERÍA CIVIL
+<br> ING. TOPÓGRAFO GEOMÁTICO
+<br> 3°B
+<br> **Creación de Código que proyecte las trayectorias de los huracanes con capas shp **
+<br> AUTORES DEL PROYECTO 
+<br> Brizuela Hernandez Rosa Maria 
+<br> Rosales Medina Héctor Daniel 
+<br>Asesor: Sebastián González Zepeda 
+<br> COQUIMATLÁN, COL. 20 DE OCTUBRE 2023
+<br>
+<br>
 2.	INTRODUCCIÓN
 La creación de capas en archivos shapefile (shp) constituye un componente esencial en el ámbito de los Sistemas de Información Geográfica (SIG), proporcionando una estructura fundamental para representar y almacenar datos geoespaciales. Estos archivos shapefile contienen información geográfica como puntos, líneas o polígonos, y se utilizan ampliamente en numerosos campos, desde la cartografía hasta el análisis espacial y la toma de decisiones en entornos urbanos, ambientales, agrícolas y comerciales.
 La creación de capas shp involucra la digitalización y organización de elementos geográficos dentro de un entorno de software SIG, lo que permite la representación visual y la manipulación de datos geoespaciales de manera eficiente. Este proceso implica la adquisición, preparación y procesamiento de datos provenientes de diversas fuentes, como mediciones GPS, imágenes satelitales, levantamientos terrestres o información recopilada mediante encuestas.
